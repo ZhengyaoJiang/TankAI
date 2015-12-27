@@ -11,7 +11,7 @@ public class MyAi extends Ai{
 	public MyAi()
 	{
 		speed=2;
-		bullet_speed=6;
+		bullet_speed=7;
 	}
 	
 	@Override
