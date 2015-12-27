@@ -10,7 +10,7 @@ public class MyAi extends Ai{
 
 	public MyAi()
 	{
-		speed=4;
+		speed=5;
 		bullet_speed=6;
 	}
 	
